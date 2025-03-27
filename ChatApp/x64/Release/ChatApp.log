@@ -1,0 +1,10 @@
+﻿  ChatApp.cpp
+C:\Users\dawid\Desktop\ChatApp\ChatApp\ChatApp\ChatApp.cpp(64,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dawid\Desktop\ChatApp\ChatApp\ChatApp\ChatApp.cpp(72,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dawid\Desktop\ChatApp\ChatApp\ChatApp\ChatApp.cpp(85,23): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\dawid\Desktop\ChatApp\ChatApp\ChatApp\ChatApp.cpp(108,28): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ChatApp.vcxproj -> C:\Users\dawid\Desktop\ChatApp\ChatApp\x64\Release\ChatApp.exe
